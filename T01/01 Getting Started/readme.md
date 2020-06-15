@@ -10,11 +10,13 @@
 
 ## Labs
 
-[Version Controlling with Git - Exercises 1 - 5](https://www.azuredevopslabs.com/labs/azuredevops/git/)
+[Version Controlling with Git in Azure Repos - Exercises 1 - 5](https://www.azuredevopslabs.com/labs/azuredevops/git/)
 
 ## Learning Labs:
 
 [Introduction to Git](https://docs.microsoft.com/en-us/learn/modules/intro-to-git/)
+
+[Learning Path - Introduction to version control with Git](https://docs.microsoft.com/en-us/learn/paths/intro-to-vc-git/)
 
 # Git / Github Essentials
 
@@ -121,7 +123,3 @@ Fetch from Upstream:
 ```
  git fetch upstream
 ```
-
-# Labs & Walkthroughts
-
-[Learning Path - Introduction to version control with Git](https://docs.microsoft.com/en-us/learn/paths/intro-to-vc-git/)
