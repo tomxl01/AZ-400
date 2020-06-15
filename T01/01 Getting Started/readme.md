@@ -122,4 +122,5 @@ Fetch from Upstream:
 
 ```
  git fetch upstream
+ git merge upstream/master
 ```
