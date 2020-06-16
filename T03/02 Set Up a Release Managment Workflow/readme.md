@@ -12,9 +12,11 @@
 
 [DevOps Extension Team Project Health](https://marketplace.visualstudio.com/items?itemName=ms-devlabs.TeamProjectHealth)
 
+[CronMaker](http://www.cronmaker.com/)
+
 ## Lab
 
-[Setting up secrets in the pipeline with Azure Key vault - Pdf Page 123]
+[Using secrets from Azure Key Vault in a pipeline](https://azuredevopslabs.com/labs/vstsextend/azurekeyvault/)
 
 [Automating infrastructure deployments in the Cloud with Terraform and Azure Pipelines](https://www.azuredevopslabs.com/labs/vstsextend/terraform/)
 
@@ -23,6 +25,10 @@
 [Web Application Load and Performance Testing](https://azuredevopslabs.com/labs/azuredevops/load/)
 
 [Automating Selenium Tests in Azure Pipelines](https://www.azuredevopslabs.com/labs/vstsextend/Selenium/)
+
+[Feature Flag Management with LaunchDarkly and AzureDevOps](https://azuredevopslabs.com/labs/vstsextend/launchdarkly/)
+
+[Controlling Deployments using Release Gates](https://azuredevopslabs.com/labs/vstsextend/releasegates/)
 
 ## Learning Labs
 
