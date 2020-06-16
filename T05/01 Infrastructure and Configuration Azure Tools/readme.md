@@ -52,7 +52,7 @@ New-AzVm `
  -OpenPorts 80,3389
 ```
 
-## Lab
+## Labs
 
 [Provision databases in Azure Pipelines](https://docs.microsoft.com/en-us/learn/modules/provision-database-azure-pipelines/)
 

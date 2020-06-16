@@ -8,7 +8,7 @@ Install Azure Function Tools:
 npm i -g azure-functions-core-tools@3 --unsafe-perm true
 ```
 
-# Lab
+## Labs
 
 [Automate Azure Functions deployments with Azure Pipelines](https://docs.microsoft.com/en-us/learn/modules/deploy-azure-functions/)
 

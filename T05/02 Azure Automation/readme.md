@@ -8,7 +8,7 @@
 
 [Configure DSC for Linux](https://docs.microsoft.com/en-us/powershell/scripting/dsc/getting-started/lnxgettingstarted?view=powershell-7)
 
-# Lab
+## Labs
 
 [Walkthrough - Azure Automation - Create a Runbook](https://docs.microsoft.com/en-us/azure/automation/automation-quickstart-create-runbook)
 
