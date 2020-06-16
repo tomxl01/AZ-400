@@ -18,8 +18,6 @@
 
 [Using secrets from Azure Key Vault in a pipeline](https://azuredevopslabs.com/labs/vstsextend/azurekeyvault/)
 
-[Automating infrastructure deployments in the Cloud with Terraform and Azure Pipelines](https://www.azuredevopslabs.com/labs/vstsextend/terraform/)
-
 [Controlling Deployments using Release Gates](https://azuredevopslabs.com/labs/vstsextend/releasegates/)
 
 [Web Application Load and Performance Testing](https://azuredevopslabs.com/labs/azuredevops/load/)
