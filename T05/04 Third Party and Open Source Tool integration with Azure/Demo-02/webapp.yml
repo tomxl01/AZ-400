@@ -1,10 +1,10 @@
 - hosts: localhost
   connection: local
   vars:
-    resource_group: myResourceGroup
-    webapp_name: myfirstWebApp
-    plan_name: myAppServicePlan
-    location: eastus
+    resource_group: az400-t05-ansible
+    webapp_name: ansibleWebApp-1234
+    plan_name: ansiblePlan
+    location: westeurope
   tasks:
     - name: Create a resource group
       azure_rm_resourcegroup:
