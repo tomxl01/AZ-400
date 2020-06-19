@@ -54,8 +54,10 @@ Lab Machine can be Windows, Mac, Linux. The below list is provided for a Windows
 
 Azure Account:
 
-- Using [Azure Passes](https://www.microsoftazurepass.com/) ... Needs Live ID oder Azure AD Account
+- Using [Azure Passes](https://www.microsoftazurepass.com/)
 - Azure MSDN Subscription
 - [Azure Trial](https://azure.microsoft.com/en-us/free/)
+
+> Note: Azure Passes can only be used once per e-mail account (Live ID)
 
 > Note: Please do not use a Production Account for Training
