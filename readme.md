@@ -48,11 +48,11 @@ Lab Machine can be Windows, Mac, Linux. The below list is provided for a Windows
 
 ## Accounts Nedded
 
-[Github](https://github.com/)
+[Github Account](https://github.com/)
 
-[Azure Devops](https://azure.microsoft.com/en-us/services/devops/?nav=min)
+[Azure Devops Organisation](https://azure.microsoft.com/en-us/services/devops/?nav=min)
 
-Azure Account:
+Azure Tenant:
 
 - Using [Azure Passes](https://www.microsoftazurepass.com/)
 - Azure MSDN Subscription
