@@ -46,7 +46,7 @@ Lab Machine can be Windows, Mac, Linux. The below list is provided for a Windows
 
 > Note: A detailed Setup Guide can be found [here](https://github.com/ARambazamba/ClassSetup)
 
-## Accounts Nedded
+## Cloud Ressources Required
 
 [Github Account](https://github.com/)
 
