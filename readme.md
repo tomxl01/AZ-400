@@ -1,5 +1,9 @@
 # AZ-400 - Microsoft Certified: Azure DevOps Engineer Expert
 
+Companion Demo Material for Class Delivery by [Alexander Pajer](https://www.integrations.at/kontakt.aspx)
+
+[Azure DevOps Documentation](https://docs.microsoft.com/en-us/azure/devops/?view=azure-devops)
+
 - T01 - Implementing DevOps Development Processes
 - T02 - Implementing Continuous Integration
 - T03 - Implementing Continuous Delivery
@@ -7,8 +11,6 @@
 - T05 - Implementing Application Infrastructure
 - T06 - Implementing Continuous Feedback
 - T07 - Designing a DevOps Strategy
-
-[Azure DevOps Documentation](https://docs.microsoft.com/en-us/azure/devops/?view=azure-devops)
 
 ## Lab Machine Software Requirements
 
