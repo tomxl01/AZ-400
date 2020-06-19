@@ -19,7 +19,6 @@
 - Infrastructure as a Service
 - Platform as a Service
 - Serverless and HPC compute services
-- Azure Service Fabric
 - Azure Kubernetes Service
 - Application Architecture models
 - Choosing a Compute Service
