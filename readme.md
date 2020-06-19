@@ -4,6 +4,8 @@ Companion Demo Material for Class Delivery by [Alexander Pajer](https://www.inte
 
 [Azure DevOps Documentation](https://docs.microsoft.com/en-us/azure/devops/?view=azure-devops)
 
+## Topics
+
 - T01 - Implementing DevOps Development Processes
 - T02 - Implementing Continuous Integration
 - T03 - Implementing Continuous Delivery
