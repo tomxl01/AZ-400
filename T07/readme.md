@@ -8,8 +8,3 @@
 
 - Planning a Quality Strategy
 - Planning Secure Development
-
-# Module 3 Migrating and Consolidating Artifacts and Tools
-
-- Migrating and Consolidating Artifacts
-- Migrating and Integrating Source Control
