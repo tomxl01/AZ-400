@@ -11,7 +11,7 @@
 
 ## Module 2 Azure Automation
 
-- Azure Automation
+- Azure Automation Accounts
 - Azure Automation State Configuration (DSC)
 
 ## Module 3 Azure Compute services
