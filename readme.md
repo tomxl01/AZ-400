@@ -55,7 +55,7 @@ Lab Machine can be Windows, Mac, Linux. The below list is provided for a Windows
 Azure Tenant:
 
 - Using [Azure Passes](https://www.microsoftazurepass.com/)
-- Azure MSDN Subscription
+- Azure Paid / Sponsored Subscription
 - [Azure Trial](https://azure.microsoft.com/en-us/free/)
 
 > Note: Azure Passes can only be used once per e-mail account (Live ID)
