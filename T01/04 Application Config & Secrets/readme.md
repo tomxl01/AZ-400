@@ -12,6 +12,4 @@
 
 ## Learning Labs
 
-[Scan open source components for vulnerabilities and license ratings in Azure Pipelines](https://docs.microsoft.com/en-us/learn/modules/scan-open-source/)
-
-[Scan code for vulnerabilities in Azure Pipelines](https://docs.microsoft.com/en-us/learn/modules/scan-for-vulnerabilities/)
+[Quickstart: Create an ASP.NET Core app with Azure App Configuration](https://docs.microsoft.com/en-us/azure/azure-app-configuration/quickstart-aspnet-core-app)
