@@ -1,4 +1,4 @@
-rnd=$RANDOM
+rnd=19110
 loc=westeurope
 grp=az400-t02-containers-$rnd
 reg=az400cr$rnd
@@ -15,11 +15,12 @@ az appservice plan create -n $plan -g $grp --sku b1 --is-linux
 docker build --rm -f "api.prod.dockerfile" -t foodservice .
 docker run -it --rm -p 5051:80 foodservice
 
-# Execute on local machine - adjust container reg name
+# Execute on local machine 
+# Adjust container reg name
 az login
-az acr login --name $reg
-docker tag foodservice $reg.azurecr.io/foodservice
-docker push $reg.azurecr.io/foodservice
+az acr login --name az400cr19110.azurecr.io
+docker tag foodservice az400cr19110.azurecr.io/foodservice
+docker push az400cr19110.azurecr.io/foodservice
 
 # Run the image - can run in cloudshell agian
 
