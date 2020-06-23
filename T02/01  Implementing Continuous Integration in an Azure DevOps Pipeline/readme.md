@@ -55,6 +55,6 @@ Add-Type -AssemblyName System.IO.Compression.FileSystem ; [System.IO.Compression
 
 ## Learning Labs
 
-[Implement a code workflow in your build pipeline by using Git and GitHub](https://docs.microsoft.com/en-us/learn/modules/implement-code-workflow/)
+[Learning Path - Build applications with Azure DevOps](https://docs.microsoft.com/en-us/learn/paths/build-applications-with-azure-devops/)
 
 [Deploy from GitHub to Azure App Service using Jenkins](https://docs.microsoft.com/de-de/azure/developer/jenkins/deploy-from-github-to-azure-app-service)
