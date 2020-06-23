@@ -10,6 +10,10 @@
 
 # Lab
 
+[Manage site reliability](https://docs.microsoft.com/en-us/learn/modules/manage-site-reliability/)
+
+[Recommend and design system feedback mechanisms](https://docs.microsoft.com/en-us/learn/modules/recommend-system-feedback-mechanisms/)
+
 [Walkthrought - Connect to Analytics with Power BI Data Connector](https://docs.microsoft.com/en-us/azure/devops/report/powerbi/data-connector-connect?view=azure-devops)
 
 [Walktrhrough - Create and share dashboards in the Azure portal](https://docs.microsoft.com/en-us/azure/azure-portal/azure-portal-dashboards)
@@ -17,5 +21,3 @@
 [Microsoft Teams with Azure DevOps Services (Collaborate, Communicate and Celebrate)](https://azuredevopslabs.com/labs/vstsextend/teams/)
 
 [Using Microsoft Teams as Your DevOps Hub](https://azuredevopslabs.com/labs/vstsextend/teams-devopshub/)
-
-[Characterize DevOps Continuous Collaboration and Continuous Improvement](https://docs.microsoft.com/en-us/learn/modules/characterize-devops-continous-collaboration-improvement/)

@@ -4,6 +4,6 @@
 
 # Lab
 
-[Feature Flags - Part 1](https://docs.microsoft.com/en-us/azure/azure-app-configuration/quickstart-feature-flag-aspnet-core)
+[Route system feedback to development teams](https://docs.microsoft.com/en-us/learn/modules/route-system-feedback/)
 
-[Feature Flags - Part 2](https://docs.microsoft.com/en-us/azure/azure-app-configuration/use-feature-flags-dotnet-core)
+[Feature Flags](https://docs.microsoft.com/en-us/azure/azure-app-configuration/quickstart-feature-flag-aspnet-core)
