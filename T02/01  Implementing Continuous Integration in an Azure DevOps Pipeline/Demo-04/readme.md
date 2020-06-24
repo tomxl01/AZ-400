@@ -1,3 +1,3 @@
 # Custom Build Agent
 
-Build GitDeployApp using a custom build Agent
+Build [GitHubApp](https://github.com/ARambazamba/GitHubApp) using a custom build Agent
