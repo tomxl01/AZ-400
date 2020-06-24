@@ -42,7 +42,7 @@ Lab Machine can be Windows, Mac, Linux. The below list is provided for a Windows
 | Gulp                                                      | npm i -g gulp gulp-cli                                                                  |
 | Angular                                                   | npm i -g @angular/cli                                                                   |
 
-> Note: In order for Docker to work on a Windows 10 host you need to install Hyper-V or use Windows Subsystem for Linux 2 (WSL2). WSL will be availabe with Windows 10 Version 2004 - Mai 2020 Update. Please follow Setup Instructions for in the Root Installation Guide
+> Note: In order for Docker to work on a Windows 10 host you need to install Hyper-V or use Windows Subsystem for Linux 2 (WSL2). WSL will be availabe with Windows 10 Version 2004 - Mai 2020 Update.
 
 > Note: A detailed Setup Guide can be found [here](https://github.com/ARambazamba/ClassSetup)
 
