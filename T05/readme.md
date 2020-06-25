@@ -7,7 +7,6 @@
 - Create Azure Resources using Azure CLI
 - Create Azure Resources by using Azure PowerShell
 - Additional Automation Tools
-- Compliance & Security
 
 ## Module 2 Azure Automation
 
