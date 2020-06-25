@@ -14,6 +14,8 @@
 
 [Understand the structure and syntax of Azure Resource Manager templates](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/template-syntax)
 
+[Azure Cloud Shell Tools](https://docs.microsoft.com/en-us/azure/cloud-shell/features)
+
 ## Azure CLI
 
 [Azure CLI Documentation](https://docs.microsoft.com/en-us/cli/azure/?view=azure-cli-latest)
