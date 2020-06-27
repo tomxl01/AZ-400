@@ -54,6 +54,8 @@ New-AzVm `
  -OpenPorts 80,3389
 ```
 
+> Note: To reset CloudShell you can use `Dismount-Clouddrive`
+
 # Labs
 
 [Using ARM Templates](http://microsoft.github.io/PartsUnlimited/iac/200.2x-IaC-AZ-400T05AppInfra.html)
