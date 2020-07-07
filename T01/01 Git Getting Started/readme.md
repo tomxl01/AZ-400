@@ -124,7 +124,7 @@ git remote -v
 > upstream  https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git (push)
 ```
 
-Fetch from Upstream:
+Fetch from Upstream & Integrate into master branch
 
 ```
  git fetch upstream
