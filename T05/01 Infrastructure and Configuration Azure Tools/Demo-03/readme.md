@@ -1,6 +1,10 @@
 # Deploy to Azure Button
 
-[![Deploy to Azure](https://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FARambazamba%2FAZ-204%2Fmaster%2FDemos%2F05%2520IaaS%2F02%2520ARM%2FDemo-02%2Fazuredeploy.json)
+Deploys a given ARM Template to Azure
+
+[![Deploy to Azure](https://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FARambazamba%2FAZ-400%2Fmaster%2FT05%2F01%2520Infrastructure%2520and%2520Configuration%2520Azure%2520Tools%2FDemo-03%2Fazuredeploy.json)
+
+Try it - Click the button - it should redirect to the form below
 
 ![form](../_images/template-form.png)
 

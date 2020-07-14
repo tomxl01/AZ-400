@@ -94,7 +94,7 @@ Checkout tag: `git checkout 2.0.1`
 
 Add a `.gitignore` file to the root of your project. A valid `.gitignore` file can be generated at https://www.gitignore.io/
 
-## Refresh from Upstream
+## Refresh your Fork from Upstream
 
 > Note: You can use this guide to refresh changes I made during the week to your forked repo
 
@@ -124,7 +124,7 @@ git remote -v
 > upstream  https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git (push)
 ```
 
-Fetch from Upstream:
+Refresh from Upstream & Integrate into master branch
 
 ```
  git fetch upstream
